@@ -36,6 +36,6 @@ The add-on needs a local service running on your computer.
 
 ```bash
 # Download and run installer
-wget https://github.com/kadbhanem/lan-chat/releases/latest/download/install-linux.sh
+wget https://github.com/kadbhanem/lan-chat/install-linux.sh
 chmod +x install-linux.sh
 ./install-linux.sh
